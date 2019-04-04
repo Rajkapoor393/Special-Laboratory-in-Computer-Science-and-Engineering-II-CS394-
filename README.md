@@ -12,7 +12,8 @@ Make sure you handle the following correctly:
 (b) a socket's buffer is empty, and no data is available to be read.
 However, if there is some data available to be read or some can be written, the call will return the number of bytes read or written respectively. NOTE: This returned value can be less than specified in the length argument to the call or indicate an error. 
 
-Programming with Python (Multiplexing sockets I/O modules): 
+Programming with Python (Multiplexing sockets I/O modules)
+
 [11]	Write a simple web server that can return a single line/multiple line of text to any connected web browser.
 
 [12]	Write an efficient chart server that can handle several hundred or a large number of client connections. The chart server initializes with a few data attributes. It stores the count of clients, map of each client, and output sockets.  The chart client initializes with a name argument and sends this name to the chart server.
