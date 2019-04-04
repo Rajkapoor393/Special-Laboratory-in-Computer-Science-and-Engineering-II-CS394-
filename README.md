@@ -17,29 +17,42 @@ Programming with Python (Multiplexing sockets I/O modules)
 [11]	Write a simple web server that can return a single line/multiple line of text to any connected web browser.
 
 [12]	Write an efficient chart server that can handle several hundred or a large number of client connections. The chart server initializes with a few data attributes. It stores the count of clients, map of each client, and output sockets.  The chart client initializes with a name argument and sends this name to the chart server.
+
 [13]	Write program for local port forwarder, that will redirect all traffic from a local port to a particular remote host?
 
 [14]	Write a client that will wait for a particular network service forever or for a time out?
 
 [15]	Write a program to list the network interfaces present in your machine?
 
-[17] Extend the client/server interaction to simulate a password dialogue. After receiving data from a client, the server returns access granted or access denied depending on whether the received data matches the password.  
+[17] Extend the client/server interaction to simulate a password dialogue. After receiving data from a client, the server returns access granted or access denied depending on whether the received data matches the password. 
+
 [18]  Write a program that compress your working directory and email to a specific address? 
+
 [19] Write a python script to check email message from your Google account with Internet Message Access Protocol) IMAP. 
-[20] Write a program to send an email to one or multiple users with an attachment via Gmail with Simple Mail Transfer Protocol (SMTP) server.  
+
+[20] Write a program to send an email to one or multiple users with an attachment via Gmail with Simple Mail Transfer Protocol (SMTP) server. 
+
 [21] Write a program that establish secure connection to email server as Google or Yahoo through SMTP client secured with Transport layer security (TLS).  
 
 [22]	Write a program to demonstrate the loading of a local file to a remote FTP?
+
 [23]	Write a program that compress your current working directory   and then email as a message.  You can send the email message via an external Gmail SMTP host, or you can use a local email server to do this. 
+
 [24]	Write a program that connects to your Google email account and read the email message. Display one or multiple email message on user request.
+
 [25]	Write a program that finds detail of the mail server from an email address.
+
  [26]	Write a program that connects to Google mail server with POP3 to fetch an email message from an email account.
+ 
 [27] Write a program that establish a connection with a remote machine over SSH. Then display the remote machine’s CPU and Main memory information. 
 N.B. you need to install third party package Paramiko 
  
+ 
 [28] Demonstrate the use of executing a MYSQL command on remote server (i.e. you may create MYSQL database for the student,s of BTech 8th semester). 
  
+ 
 [29] Write a multithreaded, multi call XML-RPC server, so that multiple function calls can return a single result? 
+ 
  
 [30] In corporate a suitable authentication scheme to the serve designed in question number 29. 
 ====================================================================================================================
